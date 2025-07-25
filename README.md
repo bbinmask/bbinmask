@@ -1,6 +1,6 @@
 # Hi, I'm Irfanul Madar 👋
 
-I'm a **Software Engineer** passionate about building scalable web applications and creating great user experiences.
+I'm a self-taught **Software Engineer** passionate about building scalable web applications and creating great user experiences.
 
 ## 🚀 Top Skills
 - **JavaScript** | **React** | **Next.js**
