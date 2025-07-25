@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Irfanul Madar 👋
+
+I'm a **Software Engineer** passionate about building scalable web applications and creating great user experiences.
+
+## 🚀 Top Skills
+- **JavaScript** | **React** | **Next.js**
+- **Node.js** | **MongoDB**
+
+## 🏆 Featured Project
+### [Scoreboard](#)
+A project that showcases my skills with JavaScript and modern web technologies.
+
+## 👨‍💻 About Me
+Hey! My name is Irfanul Madar. I'm a software engineer.  
+I love exploring new frameworks, tinkering with full-stack apps, and collaborating on cool projects.
 
 <!--
-**bbinmask/bbinmask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Connect with me
+[LinkedIn](#) • [Twitter](#) • [Website](#)
 -->
+
+<!-- Add your social links above if you’d like! -->
+
+<!--
+## ✨ Fun Facts
+- Coffee enthusiast ☕
+- Always up for a chess game ♟️
+-->
+
+<!-- Add hobbies or fun facts if you want! -->
+
+---
+
+> “Building with code, one project at a time.”
