@@ -16,7 +16,7 @@ I love exploring new frameworks, tinkering with full-stack apps, and collaborati
 
 <!--
 ## 🌐 Connect with me
-[LinkedIn](#) • [Twitter](#) • [Website](#)
+
 -->
 
 <!-- Add your social links above if you’d like! -->
