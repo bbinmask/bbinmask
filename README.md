@@ -17,4 +17,4 @@ I love exploring new frameworks, tinkering with full-stack apps, and collaborati
 
 # Social Media Links
 
-x.com/bbinmask
+https://x.com/bbinmask
