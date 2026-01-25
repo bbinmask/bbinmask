@@ -15,4 +15,6 @@ Hey! My name is Irfanul Madar. I'm a software engineer.
 I love exploring new frameworks, tinkering with full-stack apps, and collaborating on cool projects.
 
 
-> “Building with code, one project at a time.”
+# Social Media Links
+
+x.com/bbinmask
