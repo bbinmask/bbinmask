@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="GitHub Banner showcasing a professional profile" width="100%">
+  <img src="https://res.cloudinary.com/irfanulmadar/image/upload/v1778942433/ChatGPT_Image_May_16_2026_08_08_49_PM_qalbyo.png" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
 <h1>
